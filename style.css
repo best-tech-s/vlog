@@ -1,0 +1,28 @@
+p{
+  position: absolute;
+
+  font-size: 20px;
+}
+.red{
+  margin-left: 50%;
+  margin-top: 20px;
+  background-color: rgb(20, 50, 50);
+}
+.c{
+  position: absolute;
+  margin-top: 5px;
+}
+#btn{
+  position: absolute;
+  background: green;
+  margin-top: 25%;
+  width: 100px;
+  height: 40px;
+  color: white;
+  border: 1px solid;
+  background-color: green;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  
+}
